@@ -2,8 +2,8 @@
 
 <div dir="auto">
   <a href="https://github.com/willianmano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnny1305&theme=dracula&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=johnny1305&theme=dracula&show_icons=true" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny1305&layout=compact&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny1305&layout=compact&theme=dracula" style="max-width: 100%;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnny1305&theme=dracula&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=johnny1305&theme=dracula&show_icons=true" style="max-width: 100%;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny1305&layout=compact&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny1305&layout=compact&theme=dracula" style="max-width: 100%;">
 </a></div>
 <div dir="auto"><a href="https://github.com/willianmano"> 
   </a><a href="https://www.instagram.com/johnnyr1345.v2" rel="nofollow">
