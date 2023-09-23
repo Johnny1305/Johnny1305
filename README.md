@@ -1,11 +1,49 @@
-### Hello, I'm Johnny 👋
+<p>
+  <h1 align="center"><b>Hola!, Soy Johnny13👋</b></h1>
+</p>
 
-<div dir="auto">
-  <a href="#">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnny1305&theme=dracula&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=johnny1305&theme=dracula&show_icons=true" style="max-width: 100%;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny1305&layout=compact&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny1305&layout=compact&theme=dracula" style="max-width: 100%;">
-</a></div>
-<div dir="auto"><a href="#"> 
+<img align="right" height="270px" alt="GIF" src="https://avatars.githubusercontent.com/u/88325745" />
+
+### Sobre mi
+- 💻 Estoy aprendiendo Javascript junto con HTML y CSS
+- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Number_Bot](https://numberbot.johnnyportfolio.x10.mx)
+- 👯 Buscando colaborar con otros desarolladores :wink:
+- 🥅 2023 Metas: Back End Developer
+- 💬 Preguntame lo que quieras :smile:
+- 📬 Contacta conmigo: [Johnny13](https://johnnyportfolio.x10.mx)
+
+
+***
+
+### Lenguajes y Herramientas: 
+
+
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br>
+<br>
+
+***
+### Estadísticas de Github
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Johnny1305&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de Johnny1305" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny1305&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Lenguajes más usados por Johnny1305">
+</div>
+
+***
+### Redes Sociales
+
+<div dir="auto" align="center"><a href="#"> 
   </a><a href="https://www.instagram.com/johnny13.htb" rel="nofollow">
     <img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
   </a>
