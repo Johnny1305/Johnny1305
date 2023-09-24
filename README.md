@@ -2,6 +2,14 @@
   <h1 align="center"><b>Hola!, Soy Johnny13👋</b></h1>
 </p>
 
+***
+
+<p>
+  <h4 align="center"><b><i>"La Vida Es Una Programación"</i></b></h4>
+</p>
+
+***
+
 <img align="right" height="270px" alt="GIF" src="https://avatars.githubusercontent.com/u/88325745" />
 
 ### Sobre mi
