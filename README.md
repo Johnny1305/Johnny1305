@@ -43,7 +43,7 @@
 ***
 ### Estadísticas de Github
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Johnny1305&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de Johnny1305" width="50%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Johnny1305&show_icons=true&theme=radical" alt="Estadísticas de Johnny1305" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny1305&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Lenguajes más usados por Johnny1305">
 </div>
