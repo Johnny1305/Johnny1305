@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/johnny13/" rel="follow">
     <img src="./assets/linkedin.png" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a> 
-  <a href="discord://discordapp.com/users/553696056567922699" rel="follow">
+  <a href="https://discordapp.com/users/553696056567922699" rel="follow">
     <img src="./assets/discord.png" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 <p dir="auto">
