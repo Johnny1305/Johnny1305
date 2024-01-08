@@ -4,9 +4,15 @@
 
 ***
 
-<p>
-  <h4 align="center"><b><i>"La Vida Es Una Programación"</i></b></h4>
-</p>
+<div align="center">
+  <h4><b><i>"La Vida Es Una Programación"</i></b></h4>
+  <a href="https://github.com/Johnny1305">
+    <img alt="Johnny1305" src="https://img.shields.io/github/stars/Johnny1305?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+  <a href="https://github.com/sponsors/Johnny1305">
+    <img alt="Johnny1305" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
+  </a>
+</div>
 
 ***
 
@@ -24,7 +30,7 @@
 ***
 
 ### Lenguajes y Herramientas: 
-
+<br>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,mongodb,nextjs,nodejs,py,react,ts,vercel,vscode,wordpress" />
@@ -66,7 +72,12 @@
 </p>
 
 
-<div dir="auto" align="center"><a href="#"> 
+<div dir="auto" align="center"><a href="#">
+  <div align="center">
+  <a href="https://www.buymeacoffee.com/johnny1305">
+    <img alt="Johnny1305" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</div>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/willianmano/willianmano/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </p>
