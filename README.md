@@ -39,15 +39,14 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 <br>
-<!--
+
 ***
 ### Estadísticas de Github
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Johnny1305&show_icons=true&theme=radical" alt="Estadísticas de Johnny1305" width="50%">
+<img align="left" src="https://api.githubtrends.io/user/svg/Johnny1305/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves" alt="Estadísticas de Johnny1305" width="30%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny1305&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Lenguajes más usados por Johnny1305">
+<img src="https://api.githubtrends.io/user/svg/Johnny1305/langs?time_range=one_year&use_percent=True&theme=synthwaves" width="30%" alt="Lenguajes más usados por Johnny1305">
 </div>
--->
 
 ***
 
