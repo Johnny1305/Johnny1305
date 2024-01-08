@@ -25,20 +25,11 @@
 
 ### Lenguajes y Herramientas: 
 
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br>
-<br>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,mongodb,nextjs,nodejs,py,react,ts,vercel,vscode,wordpress" />
+  </a>
+</p>
 
 ***
 ### Estadísticas de Github
@@ -52,19 +43,23 @@
 
 ### Redes Sociales
 
+<p align="center">
+  <a href="https://www.instagram.com/johnny13.htb" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:jonathan.ramos.business@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/johnny13/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discordapp.com/users/553696056567922699" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+
 <div dir="auto" align="center"><a href="#"> 
-  <a href="https://www.instagram.com/johnny13.htb" rel="follow">
-    <img src="./assets/instagram.png" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="width: 30px;">
-  </a>
-  <a href="mailto:jonathan.ramos.business@gmail.com">
-    <img src="./assets/gmail.png" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="width: 30px;">
-  </a>
-  <a href="https://www.linkedin.com/in/johnny13/" rel="follow">
-    <img src="./assets/linkedin.png" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a> 
-  <a href="https://discordapp.com/users/553696056567922699" rel="follow">
-    <img src="./assets/discord.png" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/willianmano/willianmano/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </p>
