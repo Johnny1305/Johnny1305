@@ -40,10 +40,10 @@
 ***
 ### Estadísticas de Github
 <div align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Johnny1305&theme=radical" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Johnny1305&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" /></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Johnny1305&theme=radical" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=Johnny1305&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" /></a>
   <br>
-  <a href="https://github-profile-summary-cards.vercel.app/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johnny1305&theme=radical" alt="GitHub Streak" /></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johnny1305&theme=radical" alt="GitHub Streak" /></a>
 <!--
 <img align="left" src="https://api.githubtrends.io/user/svg/Johnny1305/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves" alt="Estadísticas de Johnny1305" width="30%">
 -->
