@@ -41,7 +41,7 @@
 ### Estadísticas de Github
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Johnny1305&theme=radical" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=Johnny1305&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Johnny1305&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johnny1305&theme=radical" alt="GitHub Streak" />
 <!--
