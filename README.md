@@ -44,6 +44,7 @@
   <img src="https://streak-stats.demolab.com?user=Johnny1305&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johnny1305&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Johnny1305&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 <!--
 <img align="left" src="https://api.githubtrends.io/user/svg/Johnny1305/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves" alt="Estadísticas de Johnny1305" width="30%">
 -->
