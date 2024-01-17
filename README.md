@@ -61,6 +61,9 @@
   <a href="https://www.instagram.com/johnny13.htb" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href="https://twitter.com/Johnny13_htb" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
   <a href="mailto:jonathan.ramos.business@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
