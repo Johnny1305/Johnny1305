@@ -20,11 +20,11 @@
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
-- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Number_Bot](https://numberbot.johnnyportfolio.x10.mx)
+- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Number_Bot](https://numberbot.johnny13.es)
 - 👯 Buscando colaborar con otros desarolladores :wink:
 - 🥅 2024 Metas: Back End Developer
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Contacta conmigo: [Johnny13](https://johnnyportfolio.x10.mx)
+- 📬 Contacta conmigo: [Johnny13](https://johnny13.es)
 
 
 ***
