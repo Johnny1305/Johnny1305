@@ -12,6 +12,9 @@
   <a href="https://github.com/sponsors/Johnny1305">
     <img alt="Johnny1305" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
   </a>
+  <a href="#">
+    <img alt="Johnny1305" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29826%26in=0"/>
+  </a>
 </div>
 
 ***
@@ -20,7 +23,7 @@
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
-- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Number_Bot](https://numberbot.johnny13.es)
+- 🔭 Estoy trabajando en un Bot de Discord.js llamado [🌸 Armia 🌸](https://amirabot.es)
 - 👯 Buscando colaborar con otros desarolladores :wink:
 - 🥅 2024 Metas: Back End Developer
 - 💬 Preguntame lo que quieras :smile:
