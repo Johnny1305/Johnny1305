@@ -23,7 +23,7 @@
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
-- 🔭 Estoy trabajando en un Bot de Discord.js llamado [🌸 Armia 🌸](https://amirabot.es)
+- 🔭 Estoy trabajando en un Bot de Discord.js llamado [🌸 Amira 🌸](https://amirabot.es)
 - 👯 Buscando colaborar con otros desarolladores :wink:
 - 🥅 2024 Metas: Back End Developer
 - 💬 Preguntame lo que quieras :smile:
