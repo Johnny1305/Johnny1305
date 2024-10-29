@@ -6,9 +6,9 @@
 
 <div align="center">
   <h4><b><i>"La Vida Es Una Programación"</i></b></h4>
-  <a href="https://github.com/Johnny1305">
-    <img alt="Johnny1305" src="https://img.shields.io/github/stars/Johnny1305?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41">
-  </a>
+
+  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Johnny1305&data=followers,repositories,stars,commits&theme=nautilus)
+
   <a href="https://github.com/sponsors/Johnny1305">
     <img alt="Johnny1305" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
   </a>
