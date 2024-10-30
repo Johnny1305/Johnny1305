@@ -7,7 +7,10 @@
 <div align="center">
   <h4><b><i>"La Vida Es Una Programación"</i></b></h4>
 
-  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Johnny1305&data=followers,repositories,stars,commits&theme=nautilus)
+  <a href="https://github.com/Johnny1305" style="cursor: default;">
+    <img alt="Johnny1305" src="https://github-widgetbox.vercel.app/api/profile?username=Johnny1305&data=followers,repositories,stars,commits&theme=nautilus"/>
+  </a>
+
 
   <a href="https://github.com/sponsors/Johnny1305">
     <img alt="Johnny1305" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
@@ -18,8 +21,6 @@
 </div>
 
 ***
-
-<img align="right" height="270px" alt="GIF" src="https://avatars.githubusercontent.com/u/88325745" />
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
@@ -35,7 +36,7 @@
 ### Lenguajes y Herramientas: 
 <br>
 <p align="center">
-  <a href="#">
+  <a href="#" style="cursor: default;">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,mongodb,nextjs,nodejs,py,react,ts,vercel,vscode,wordpress" />
   </a>
 </p>
@@ -86,6 +87,6 @@
   </a>
 </div>
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/willianmano/willianmano/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="#" style="cursor: default;"><img src="https://github.com/willianmano/willianmano/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </p>
 </div>
