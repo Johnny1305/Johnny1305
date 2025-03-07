@@ -7,9 +7,6 @@
 <div align="center">
   <h4><b><i>"La Vida Es Una Programación"</i></b></h4>
 
-  <a href="https://github.com/Johnny1305" style="cursor: default;">
-    <img alt="Johnny1305" src="https://github-widgetbox.vercel.app/api/profile?username=Johnny1305&data=followers,repositories,stars,commits&theme=nautilus"/>
-  </a>
   <br>
   <a href="https://github.com/sponsors/Johnny1305">
     <img alt="Johnny1305" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
