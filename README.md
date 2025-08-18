@@ -11,12 +11,6 @@
   <a href="https://github.com/sponsors/Johnny1305">
     <img alt="Johnny1305" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
   </a>
-  <a href="#">
-    <img alt="Johnny1305" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29826%26in=0"/>
-  </a>
-  <a href="https://amirabot.es" target="_blank">
-    <img alt="Johnny1305" src="https://img.shields.io/discord/1176513848002490379?style=for-the-badge&logo=discord&color=blue&link=https%3A%2FSE"/>
-  </a>
 </div>
 
 ***
@@ -25,7 +19,7 @@
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
 - 🔭 Estoy trabajando en un Bot de Discord.js llamado [🌸 Amira 🌸](https://amirabot.es)
 - 👯 Buscando colaborar con otros desarolladores :wink:
-- 🥅 2025 Metas: Back End Developer
+- 🥅 2026 Metas: FullSatck Developer
 - 💬 Preguntame lo que quieras :smile:
 - 📬 Contacta conmigo: [Johnny13](https://johnny13.es)
 
