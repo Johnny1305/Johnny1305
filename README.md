@@ -80,10 +80,6 @@ const johnny = {
 
 </div>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/Johnny1305" alt="Contribuciones de Johnny1305" width="100%" />
-</p>
-
 ## `> contact --open`
 
 <div align="center">
